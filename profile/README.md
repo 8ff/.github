@@ -15,7 +15,7 @@ Diceware is a technique for generating strong, memorable passwords using dice to
 ## [UDARP - Universal Digital Radio Protocol - udarp.com](https://udarp.com)
 Universal Digital Radio Protocol written in Golang<br>
 
-## <img src="" width="100" height="100"> [MAIDENHEAD - Convert between Maidenhead Grid Squares and latitudes and longitudes](https://github.com/8ff/maidenhead)
+## <img src="https://github.com/8ff/maidenhead/blob/main/media/logo_raw.svg" width="100" height="100"> [MAIDENHEAD - Convert between Maidenhead Grid Squares and latitudes and longitudes](https://github.com/8ff/maidenhead)
 This library provides an easy and convenient way to perform conversions between Maidenhead Grid Squares and latitudes and longitudes.<br>
 
 ## <img src="" width="100" height="100"> [VITERBI - Convolutional encoder and a Viterbi decoder written in Golang](https://github.com/8ff/viterbi)
