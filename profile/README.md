@@ -8,6 +8,8 @@ This repository contains a Golang implementation of a chatbot using the OpenAI G
 ![example](https://github.com/8ff/gpt/blob/main/media/chat.gif)
 ---------------------------------------
 
+
+
 ![logo](https://github.com/8ff/diceware/blob/main/media/logo_small.svg)
 ## [DICEWARE - Golang Diceware library and password generator](https://github.com/8ff/diceware)
 Diceware is a technique for generating strong, memorable passwords using dice to select words from a list. The Diceware method is based on the idea that each word in the list corresponds to a unique combination of five dice rolls, making it difficult for attackers to guess the password.<br>
