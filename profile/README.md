@@ -7,14 +7,14 @@
 This repository contains a Golang implementation of a chatbot using the OpenAI GPT-3.5 Turbo API. The chatbot is able to generate human-like responses to user queries.<br>
 ![example](https://github.com/8ff/gpt/blob/main/media/chat.gif)
 ---------------------------------------
-
-
+<br><br>
 
 ![logo](https://github.com/8ff/diceware/blob/main/media/logo_small.svg)
 ## [DICEWARE - Golang Diceware library and password generator](https://github.com/8ff/diceware)
 Diceware is a technique for generating strong, memorable passwords using dice to select words from a list. The Diceware method is based on the idea that each word in the list corresponds to a unique combination of five dice rolls, making it difficult for attackers to guess the password.<br>
 ![example](https://github.com/8ff/diceware/blob/main/media/pwgen.gif)
 ---------------------------------------
+<br><br>
 
 ![logo](https://github.com/8ff/udarp/blob/main/media/logo_small.svg)
 ## [UDARP - Universal Digital Radio Protocol - udarp.com](https://udarp.com)
