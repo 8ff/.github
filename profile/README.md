@@ -10,13 +10,13 @@ This repository contains a Golang implementation of a chatbot using the OpenAI G
 Diceware is a technique for generating strong, memorable passwords using dice to select words from a list. The Diceware method is based on the idea that each word in the list corresponds to a unique combination of five dice rolls, making it difficult for attackers to guess the password.<br>
 ![example](https://github.com/8ff/diceware/blob/main/media/pwgen.gif)
 
-## <img src="" width="100" height="100"> [UDARP - Universal Digital Radio Protocol - udarp.com](https://udarp.com)
+## <img src="https://github.com/8ff/udarp/blob/main/media/logo.svg" width="100" height="100"> [UDARP - Universal Digital Radio Protocol - udarp.com](https://udarp.com)
 Universal Digital Radio Protocol written in Golang<br>
 
-## [MAIDENHEAD - Convert between Maidenhead Grid Squares and latitudes and longitudes](https://github.com/8ff/maidenhead)
+## <img src="" width="100" height="100"> [MAIDENHEAD - Convert between Maidenhead Grid Squares and latitudes and longitudes](https://github.com/8ff/maidenhead)
 This library provides an easy and convenient way to perform conversions between Maidenhead Grid Squares and latitudes and longitudes.<br>
 
-## [VITERBI - Convolutional encoder and a Viterbi decoder written in Golang](https://github.com/8ff/viterbi)
+## <img src="" width="100" height="100"> [VITERBI - Convolutional encoder and a Viterbi decoder written in Golang](https://github.com/8ff/viterbi)
 This package implements a convolutional encoder and a Viterbi decoder. It can be used as a library or as a command line tool.
 A Viterbi decoder corrects errors in digital communication by selecting the most likely message based on statistical analysis of the received signal and the probability of errors occurring in the transmission.<br>
 
