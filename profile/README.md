@@ -9,9 +9,10 @@
 
 This repository contains a Golang implementation of a chatbot using the OpenAI GPT-3.5 Turbo API. The chatbot is able to generate human-like responses to user queries.
 
-<div style="text-align:center">
+<div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://github.com/8ff/gpt/blob/main/media/chat.gif">
 </div>
+
 
 
 ## <img src="https://github.com/8ff/diceware/blob/main/media/logo_raw.svg" width="100" height="100"> [DICEWARE - Golang Diceware library and password generator](https://github.com/8ff/diceware)
