@@ -2,13 +2,9 @@
 
 # The good things you will find here @ [8ff.org](https://8ff.org)
 
-| <img src="https://github.com/8ff/.github/blob/main/media/gpt_mini.svg" width="100" height="100"> | [GPT - GPT-3.5 Turbo Chatbot Golang Library](https://github.com/8ff/gpt) |
-| --- | --- |
-
-This repository contains a Golang implementation of a chatbot using the OpenAI GPT-3.5 Turbo API. The chatbot is able to generate human-like responses to user queries.
-
+## <img src="https://github.com/8ff/.github/blob/main/media/gpt_mini.svg" width="100" height="100"> [GPT - GPT-3.5 Turbo Chatbot Golang Library](https://github.com/8ff/gpt)
+This repository contains a Golang implementation of a chatbot using the OpenAI GPT-3.5 Turbo API. The chatbot is able to generate human-like responses to user queries.<br>
 ![example](https://github.com/8ff/gpt/blob/main/media/chat.gif)
-
 
 ## <img src="https://github.com/8ff/diceware/blob/main/media/logo_raw.svg" width="100" height="100"> [DICEWARE - Golang Diceware library and password generator](https://github.com/8ff/diceware)
 Diceware is a technique for generating strong, memorable passwords using dice to select words from a list. The Diceware method is based on the idea that each word in the list corresponds to a unique combination of five dice rolls, making it difficult for attackers to guess the password.<br>
