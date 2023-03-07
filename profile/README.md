@@ -23,12 +23,14 @@
 | [UDARP - Universal Digital Radio Protocol - udarp.com](https://udarp.com) |
 | Universal Digital Radio Protocol written in Golang |
 ---------------------------------------
+<br><br>
 
 | ![logo](https://github.com/8ff/maidenhead/blob/main/media/logo_small.svg) |
 | :---: |
 | [MAIDENHEAD - Maidenhead Grid Squares <-> latitudes and longitudes](https://github.com/8ff/maidenhead) |
 | This library provides an easy and convenient way to perform conversions between Maidenhead Grid Squares and latitudes and longitudes. |
 ---------------------------------------
+<br><br>
 
 | ![logo](https://github.com/8ff/viterbi/blob/main/media/logo_small.svg) |
 | :---: |
@@ -36,6 +38,7 @@
 | This package implements a convolutional encoder and a Viterbi decoder. It can be used as a library or as a command line tool.
 A Viterbi decoder corrects errors in digital communication by selecting the most likely message based on statistical analysis of the received signal and the probability of errors occurring in the transmission. |
 ---------------------------------------
+<br><br>
 
 | ![logo](https://github.com/8ff/viterbi/blob/main/media/logo_small.svg) |
 | :---: |
