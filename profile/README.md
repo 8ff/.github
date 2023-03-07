@@ -43,5 +43,6 @@ A Viterbi decoder corrects errors in digital communication by selecting the most
 | ![logo](https://github.com/8ff/chacha20poly1305_scrypt_block/blob/main/media/logo_small.svg) |
 | :---: |
 | [chacha20poly1305_scrypt_block](https://github.com/8ff/chacha20poly1305_scrypt_block) |
-| Simple wrapper around the chacha20poly1305 and scrypt hash to encrypt small chunks of data. |
+| Simple wrapper around the chacha20poly1305 and scrypt hash to encrypt small chunks of data.
+Can be used as a library or as a command line tool located in [cmd/cipherCli](cmd/cipherCli). |
 ---------------------------------------
