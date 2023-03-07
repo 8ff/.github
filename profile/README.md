@@ -2,8 +2,8 @@
 
 # The good things you will find here @ [8ff.org](https://8ff.org)
 
-| ![logo](https://github.com/8ff/gpt/blob/main/media/logo_small.svg) | [GPT - GPT-3.5 Turbo Chatbot Golang Library](https://github.com/8ff/gpt) |
-| --- |
+![logo](https://github.com/8ff/gpt/blob/main/media/logo_small.svg)
+## [GPT - GPT-3.5 Turbo Chatbot Golang Library](https://github.com/8ff/gpt) |
 This repository contains a Golang implementation of a chatbot using the OpenAI GPT-3.5 Turbo API. The chatbot is able to generate human-like responses to user queries.<br>
 ![example](https://github.com/8ff/gpt/blob/main/media/chat.gif)
 ---------------------------------------
