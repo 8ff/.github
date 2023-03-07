@@ -18,22 +18,27 @@
 ---------------------------------------
 <br><br>
 
-![logo](https://github.com/8ff/udarp/blob/main/media/logo_small.svg)
-## [UDARP - Universal Digital Radio Protocol - udarp.com](https://udarp.com)
-Universal Digital Radio Protocol written in Golang<br>
+| ![logo](https://github.com/8ff/udarp/blob/main/media/logo_small.svg) |
+| :---: |
+| [UDARP - Universal Digital Radio Protocol - udarp.com](https://udarp.com) |
+| Universal Digital Radio Protocol written in Golang |
 ---------------------------------------
 
-![logo](https://github.com/8ff/maidenhead/blob/main/media/logo_small.svg)
-## [MAIDENHEAD - Maidenhead Grid Squares <-> latitudes and longitudes](https://github.com/8ff/maidenhead)
-This library provides an easy and convenient way to perform conversions between Maidenhead Grid Squares and latitudes and longitudes.<br>
+| ![logo](https://github.com/8ff/maidenhead/blob/main/media/logo_small.svg) |
+| :---: |
+| [MAIDENHEAD - Maidenhead Grid Squares <-> latitudes and longitudes](https://github.com/8ff/maidenhead) |
+| This library provides an easy and convenient way to perform conversions between Maidenhead Grid Squares and latitudes and longitudes. |
 ---------------------------------------
 
-![logo](https://github.com/8ff/viterbi/blob/main/media/logo_small.svg)
-## [VITERBI - Convolutional encoder and a Viterbi decoder written in Golang](https://github.com/8ff/viterbi)
-This package implements a convolutional encoder and a Viterbi decoder. It can be used as a library or as a command line tool.
-A Viterbi decoder corrects errors in digital communication by selecting the most likely message based on statistical analysis of the received signal and the probability of errors occurring in the transmission.<br>
+| ![logo](https://github.com/8ff/viterbi/blob/main/media/logo_small.svg) |
+| :---: |
+| [VITERBI - Convolutional encoder and a Viterbi decoder written in Golang](https://github.com/8ff/viterbi) |
+| This package implements a convolutional encoder and a Viterbi decoder. It can be used as a library or as a command line tool.
+A Viterbi decoder corrects errors in digital communication by selecting the most likely message based on statistical analysis of the received signal and the probability of errors occurring in the transmission. |
 ---------------------------------------
 
-## [chacha20poly1305_scrypt_block](https://github.com/8ff/chacha20poly1305_scrypt_block)
-Simple wrapper around the chacha20poly1305 and scrypt hash to encrypt small chunks of data.<br>
+| ![logo](https://github.com/8ff/viterbi/blob/main/media/logo_small.svg) |
+| :---: |
+| [chacha20poly1305_scrypt_block](https://github.com/8ff/chacha20poly1305_scrypt_block) |
+| Simple wrapper around the chacha20poly1305 and scrypt hash to encrypt small chunks of data. |
 ---------------------------------------
