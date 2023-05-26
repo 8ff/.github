@@ -43,5 +43,5 @@ A Viterbi decoder corrects errors in digital communication by selecting the most
 | ![logo](https://github.com/8ff/cipherbox/blob/main/media/logo_small.svg) |
 | :---: |
 | [cipherbox](https://github.com/8ff/cipherbox) |
-| Minimalistic Go Encryption Library that wraps chacha20poly1305 cipher and scrypt hash algorithm. |
+| Minimalistic Go Encryption Library and cli tools that wrap chacha20poly1305 cipher and scrypt hash algorithm. |
 ---------------------------------------
