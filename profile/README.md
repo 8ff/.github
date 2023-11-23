@@ -1,5 +1,6 @@
 ![landing](https://user-images.githubusercontent.com/96321026/208686753-04fae28b-d3f0-45ab-8d15-6a65a9aafcff.png)
 
+Unveil the world of `8FF`, a proud member of the [Marlinway](https://marlinway.com) family, where open-source innovation meets fun. Here, you'll find a trove of free and innovative projects. Don't forget to also explore the cutting-edge, enterprise-level solutions at [Marlinway](https://marlinway.com). It's a journey of code, creativity, and innovation!
 # The good things you will find here @ [8ff.org](https://8ff.org)
 
 | ![logo](https://github.com/8ff/firescrew/blob/main/media/logo_small.svg) |
