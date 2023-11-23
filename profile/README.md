@@ -3,6 +3,14 @@
 Unveil the world of `8FF`, a proud member of the [Marlinway](https://marlinway.com) family, where open-source innovation meets fun. Here, you'll find a trove of free and innovative projects. Don't forget to also explore the cutting-edge, enterprise-level solutions at [Marlinway](https://marlinway.com). It's a journey of code, creativity, and innovation!
 # The good things you will find here @ [8ff.org](https://8ff.org)
 
+| ![logo](https://github.com/8ff/firescrew/blob/main/media/logo_small.svg) |
+| :---: |
+| [FIRESCREW - Spotting moving objects on your RTSP network cameras faster than a caffeinated cat!](https://github.com/8ff/firescrew) |
+| Firescrew is a cutting-edge application written in Go that enables real-time object and motion detection from an RTSP network camera. It leverages advanced image processing techniques and machine learning models to identify specific objects such as cars, people, and more. |
+| ![example](https://github.com/8ff/firescrew/blob/main/media/demo.png) |
+---------------------------------------
+<br><br>
+
 | ![logo](https://github.com/8ff/gpt/blob/main/media/logo_small.svg) |
 | :---: |
 | [GPT - GPT-3.5 Turbo Chatbot Golang Library](https://github.com/8ff/gpt) |
