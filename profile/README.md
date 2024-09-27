@@ -12,19 +12,18 @@ Unveil the world of `8FF`, part of the [Marlinway](https://marlinway.com) family
 ---------------------------------------
 <br><br>
 
-| ![logo](https://github.com/8ff/gpt/blob/main/media/logo_small.svg) |
-| :---: |
-| [GPT - GPT-3.5 Turbo Chatbot Golang Library](https://github.com/8ff/gpt) |
-| This repository contains a Golang implementation of a chatbot using the OpenAI GPT-3.5 Turbo API. The chatbot is able to generate human-like responses to user queries. |
-| ![example](https://github.com/8ff/gpt/blob/main/media/chat.gif) |
----------------------------------------
-<br><br>
-
 | ![logo](https://github.com/8ff/diceware/blob/main/media/logo_small.svg) |
 | :---: |
 |[DICEWARE - Golang Diceware library and password generator](https://github.com/8ff/diceware) |
 | Diceware is a technique for generating strong, memorable passwords using dice to select words from a list. The Diceware method is based on the idea that each word in the list corresponds to a unique combination of five dice rolls, making it difficult for attackers to guess the password. |
 | ![example](https://github.com/8ff/diceware/blob/main/media/pwgen.gif) |
+---------------------------------------
+<br><br>
+
+| ![logo](https://github.com/8ff/chap/blob/main/media/logo_800x100.svg) |
+| :---: |
+|[CHAP - Secure Your Data with Ease](https://github.com/8ff/chap) |
+| CHAP (short for chachapoly) is a tool for encryption, decryption, and secure file wiping. It leverages the cipherbox library as a wrapper for the ChaCha20-Poly1305 cipher and scrypt key derivation, providing strong data protection. |
 ---------------------------------------
 <br><br>
 
@@ -55,3 +54,12 @@ A Viterbi decoder corrects errors in digital communication by selecting the most
 | [cipherbox](https://github.com/8ff/cipherbox) |
 | Minimalistic Go Encryption Library and cli tools that wrap chacha20poly1305 cipher and scrypt hash algorithm. |
 ---------------------------------------
+<br><br>
+
+| ![logo](https://github.com/8ff/gpt/blob/main/media/logo_small.svg) |
+| :---: |
+| [GPT - GPT-3.5 Turbo Chatbot Golang Library](https://github.com/8ff/gpt) |
+| This repository contains a Golang implementation of a chatbot using the OpenAI GPT-3.5 Turbo API. The chatbot is able to generate human-like responses to user queries. |
+| ![example](https://github.com/8ff/gpt/blob/main/media/chat.gif) |
+---------------------------------------
+
